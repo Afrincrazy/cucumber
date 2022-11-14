@@ -1,4 +1,5 @@
 Feature: Login Validation
+@smoke
 Scenario: Verify FACEBOOK login
 Given user is in the FACEBOOK page
 When user enters USER ID as "afrinsafa7865"
